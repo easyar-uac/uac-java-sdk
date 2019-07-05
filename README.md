@@ -2,7 +2,7 @@
 
 EasyAR STS (Security Token Service) provide finer grained and temporary access controlling service
 
-### 访问点
+### API URL
 
 URL: https://uac.easyar.com 
 
